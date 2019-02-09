@@ -1,0 +1,6 @@
+matplotlib
+jupyter
+numpy
+opencv-contrib-python==3.4.2.17
+opencv-python
+scikit-learn

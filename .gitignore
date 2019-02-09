@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+new-plant-diseases-dataset
+*.zip
+articles
+*.pdf
+*.arff
+__pycache__
