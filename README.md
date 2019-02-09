@@ -1,6 +1,6 @@
 # plant-diseases
 
-Repositório para detecção de doenças em videiras baseada em imagens foliares. São usados diferentes modos de extração de características das imagens e estes, alimentam diferentes algoritmos de aprendizagem supervisionada. As acurácias dos modelos são coletadas usando cross validation.
+Uso de técnicas de visão computacional para detecção de doenças em videiras baseada em imagens foliares. São usados diferentes modos de extração de características das imagens e estes, alimentam diferentes algoritmos de aprendizagem supervisionada. As acurácias dos modelos são coletadas usando cross validation.
 
 # Dataset
 
